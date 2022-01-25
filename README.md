@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saramesquita1/)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ... I'm a savvy reader (Science, Fiction, Classics, Business)
+- ⚡ Fun fact: ... I'm a savvy reader (Science, Fiction, Classics, Business) -> Find me on [Goodreads](https://www.goodreads.com/user/show/33629830-sara-mesquita)
 
