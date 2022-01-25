@@ -4,8 +4,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my PhD and Data Visualization Lisboa (check our [Youtube channel!](https://www.youtube.com/c/DataVisLisboa/videos))
 - 🌱 I’m currently learning ... d3.js
-- 👯 I’m looking to collaborate on ... pyhton and d3.js
-- 🤔 I’m looking for help with ... time series and d3.js
+- 👯 I’m looking to collaborate on ... pyhton and d3.js projects
+- 🤔 I’m looking for help with ... (usually) time series and d3.js
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saramesquita1/)
 - 😄 Pronouns: she/her
